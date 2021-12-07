@@ -1,0 +1,23 @@
+{
+  "name": "Cesare #1",
+  "symbol": "",
+  "image": "2.png",
+  "collection": {
+    "name": "Ben a l'École des Champions (unofficial)",
+    "family": ""
+  },
+  "properties": {
+    "files": [
+      {
+        "uri": "2.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "FA6DZS7PToUpHywVKJGqRKMvPYGckwrrdPxFmWZqYhKg",
+        "share": 100
+      }
+    ]
+  }
+}

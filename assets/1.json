@@ -1,0 +1,23 @@
+{
+  "name": "Ben 2",
+  "symbol": "",
+  "image": "1.png",
+  "collection": {
+    "name": "Ben a l'École des Champions (unofficial)",
+    "family": ""
+  },
+  "properties": {
+    "files": [
+      {
+        "uri": "1.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "FA6DZS7PToUpHywVKJGqRKMvPYGckwrrdPxFmWZqYhKg",
+        "share": 100
+      }
+    ]
+  }
+}

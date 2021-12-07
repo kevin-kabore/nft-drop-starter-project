@@ -1,0 +1,23 @@
+{
+  "name": "Ben",
+  "symbol": "",
+  "image": "0.png",
+  "collection": {
+    "name": "Ben a l'École des Champions (unofficial)",
+    "family": ""
+  },
+  "properties": {
+    "files": [
+      {
+        "uri": "0.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "FA6DZS7PToUpHywVKJGqRKMvPYGckwrrdPxFmWZqYhKg",
+        "share": 100
+      }
+    ]
+  }
+}
